@@ -1,0 +1,1 @@
+A full stack To-do List project built using ejs, express, postgresql , easy to run you need to just install the npm modules by running the command npm install and then run the command nodemon index.js to launch the project on your localhost:300 port.
