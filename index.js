@@ -4,6 +4,7 @@ import bodyParser from "body-parser";
 import pg from "pg";
 import env from "dotenv";
 
+
 env.config();
 
 const app = express();
